@@ -1,6 +1,6 @@
 cask "mission-control-rename" do
-  version "1.2.3"
-  sha256 "c443692a6e4a6a8a2cf3a58e51b01cadcd86d8545cb9a3839bd63903797db6f4"
+  version "1.2.4"
+  sha256 "2033f4ed8d6108ceaa57284445820c5819d73452a7bd0e97a0a0f0ac226c795d"
 
   url "https://apps.iq.lu/downloads/mission-control-rename/#{version}/Mission-Control-Rename-#{version}.dmg"
   name "Mission Control Rename"
